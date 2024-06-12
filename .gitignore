@@ -1,3 +1,4 @@
 .env
 .venv
-*draft.ipynb
+draft.ipynb
+desktop.ini
